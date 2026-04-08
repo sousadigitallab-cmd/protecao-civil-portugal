@@ -1,14 +1,22 @@
-# Proteção Civil Portugal
-**Repositório técnico de legislação, referências e apoio à decisão**
+## 📁 Estrutura do repositório
 
-## 📌 Objetivo do repositório
-Este repositório foi criado para **centralizar, organizar e manter atualizada** a legislação, documentação de enquadramento e recursos técnicos relevantes para a **Proteção Civil em Portugal**, com foco na **aplicação prática em contexto municipal e operacional**.
+A organização dos conteúdos segue uma lógica prática e reutilizável:
 
-Destina-se a servir como:
-- Base de consulta rápida  
-- Apoio à decisão  
-- Apoio à organização documental  
-- Recurso de referência para formação e trabalho técnico  
+- `/docs` – Documentação técnica de apoio, organizada por áreas temáticas  
+  - bases legais  
+  - busca, resgate e salvamento  
+  - riscos naturais e tecnológicos  
+  - segurança e prevenção  
+
+- `/legislacao` – Diplomas legais estruturantes da Proteção Civil em Portugal
+
+- `/temas` – Organização temática transversal (planeamento, prevenção, resposta)
+
+- `/ufcds` – Materiais e referências associados a UFCDs e unidades curriculares
+
+- `/templates` – Modelos reutilizáveis de apoio à organização e gestão documental
+
+Esta estrutura foi pensada para facilitar consulta rápida, reaproveitamento e adaptação a contexto municipal.
 
 ---
 
